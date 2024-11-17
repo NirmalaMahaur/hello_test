@@ -1,2 +1,2 @@
 # hello_test
-setting uo git
+setting of git
